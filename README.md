@@ -1,2 +1,2 @@
-# solarprocurement.github.io
+# Solar Procurement
 Solar Made Simple
